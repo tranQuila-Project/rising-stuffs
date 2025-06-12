@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "𝙩𝙧𝙖𝙣𝙌𝙪𝙞𝙡𝙖",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+			"filename": "RisingOS_Revived-7.0-250612-1531-CORE-COMMUNITY-veux-ota.zip",
+			"download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Rising-120625/RisingOS_Revived-7.0-250612-1531-CORE-COMMUNITY-veux-ota.zip",
+			"timestamp": 1749742192,
+			"md5": "1bff08cd321d489307793bea0266a2c4",
+			"sha256": "dd4eeaabe8f53606fd8bb89f45cd1c3dffc8183738258a2e9fe52b5d8628f01a",
+			"size": 1948497243,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://github.com/MrTopia/device_xiaomi_veux/releases/tag/Rising-120625",
+			"paypal": "https://telegra.ph/MrTopiAs-Donation-Info-12-29",
+			"telegram": "https://t.me/mrtopia"
+		}
+	]
+}
